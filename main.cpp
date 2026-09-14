@@ -52,7 +52,7 @@ int main () {
     }
     cout << endl << "total attempt : " << total_attempt ;
 
-
+    cin >> prenum ;
   return 0 ;
 
 }
